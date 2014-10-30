@@ -1,0 +1,8 @@
+**********************
+THIRD PARTY COMPONENTS
+**********************
+This software includes third party software subject to the following copyrights:
+
+-Python 3 – Copyright © 2001-2014 Python Software Foundation; All Rights Reserved
+
+The licenses for these third party components are included in LICENSE.txt.
